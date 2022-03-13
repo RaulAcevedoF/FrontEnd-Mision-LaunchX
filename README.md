@@ -12,3 +12,7 @@
 2. Semana-2 (HTML)
    - Práctica taquería "TacoNauta".
    - Práctica pastelería "DeliCake".
+3. Semana-3 (CSS)
+   - Práctica "landingVacunación" by Adhiari Subekti.
+4. Semana-3 (Js)
+   - Proximamente.
