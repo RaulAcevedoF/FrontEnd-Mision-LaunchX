@@ -17,4 +17,4 @@
 4. Semana-4 (Js)
    - Práctica "Pokedex".
 5. Semana-5 (VueJS y Vuex)
-   - Práctica "Pokedex".
+   - Próximamente.
