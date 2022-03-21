@@ -14,5 +14,7 @@
    - Práctica pastelería "DeliCake".
 3. Semana-3 (CSS)
    - Práctica "landingVacunación" by Adhiari Subekti.
-4. Semana-3 (Js)
-   - Proximamente.
+4. Semana-4 (Js)
+   - Práctica "Pokedex".
+5. Semana-5 (VueJS y Vuex)
+   - Práctica "Pokedex".
